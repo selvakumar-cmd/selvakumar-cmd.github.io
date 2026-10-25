@@ -461,8 +461,8 @@ document.addEventListener('DOMContentLoaded', () => {
                 response.textContent = "✨ Accio Resume! Summoning Selvakumar's Resume now...";
                 {
                     const link = document.createElement('a');
-                    link.href = 'Selva kumar.S.pdf';
-                    link.download = 'Selva kumar.S.pdf';
+                    link.href = 'Selvakumar_Software_Devolper____.pdf';
+                    link.download = 'Selvakumar_Software_Developer.pdf';
                     link.target = '_blank';
                     document.body.appendChild(link);
                     link.click();
